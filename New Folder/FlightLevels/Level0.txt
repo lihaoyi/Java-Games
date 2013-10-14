@@ -1,0 +1,1 @@
+	This is a training mission. Your objective is to destroy all 4 target structures positioned around the area at Nav Points Alpha, Beta, Gamma and Delta. The target structures will have a yellow emblem while the friendly structures of your base will have a blue emblem. Do not destroy any friendly structures.

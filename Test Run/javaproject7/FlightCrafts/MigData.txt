@@ -1,0 +1,8 @@
+Mass/kg = 14000
+Thrust/Newtons = 197000
+WingArea/msquare = 38
+Length/m = 17.4
+WingSpan/m = 11.4
+MaxCl = 1.6
+InducedDragE = 0.728
+CoefficientOfParasiticDrag = 0.0258

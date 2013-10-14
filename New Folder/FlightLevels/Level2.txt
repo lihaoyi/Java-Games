@@ -1,0 +1,1 @@
+	There are enemy aircraft coming to attack your bases at Nav Points Alpha and Beta. They are expected to come from the directions of Nav Points Gamma, Delta and Epsilon. Defend the bases against these attacks.

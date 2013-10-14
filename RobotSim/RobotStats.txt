@@ -1,0 +1,14 @@
+0RobotLength	0.3 	m
+1RobotThickness 	0.1	m
+2WheelSpeeds	0.5	m/s
+3TrailDuration	1.0	s
+4
+5
+6 	 	 
+7InputFileV	RobotMobileSpeed.txt	
+8InputFileW	RobotWheelSpeed.txt
+9InputStreamV	RobotMobileStream.txt
+10InputStreamW	RobotWheelStream.txt
+11OutputVFile	RobotOutputSpeeds.txt
+12OutputPFile	RobotOutputPosition.txt
+13OutputWFile	RobotOutputWheels.txt

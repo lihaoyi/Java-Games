@@ -1,0 +1,3 @@
+Fly around and shoot down enemy aircraft! Friendly aircraft have blue trails enemy aircraft red. Use the obstacles around for cover and to avoid pursuit.
+
+Your objective is given to you in the briefing screen before each mission, with your targets highlighted on the map and any important navigation points marked out for you. Go to your targets and accomplish your objectives.

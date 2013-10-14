@@ -1,0 +1,300 @@
+1	Alpha Canis Majoris Sirius 	6	45	-16.7	227.2	-8.9	A1V	-1.46	1.43	379.21	1.58	9
+2	Alpha Carinae Canopus  	6	24	-52.7	261.2	-25.3	F0Ib	-0.73	-5.64	10.43	0.53	310
+3	Alpha Centauri Rigil Kentaurus 	14	40	-60.8	315.8	-0.7	G2V+K1V	-0.29	4.06	742.12	1.4	4
+4	Alpha Boötis Arcturus  	14	16	19.2	15.2	69	K2III	-0.05	-0.31	88.85	0.74	37
+5	Alpha Lyrae Vega  	18	37	38.8	67.5	19.2	A0V	0.03	0.58	128.93	0.55	25
+6	Alpha Aurigae Capella  	5	17	46	162.6	4.6	G5III+G0III	0.07	-0.49	77.29	0.89	42
+7	Beta Orionis Rigel  	5	15	-8.2	209.3	-25.1	B8Ia	0.15	-6.72v	4.22	0.81	770
+8	Alpha Canis Minoris Procyon 	7	39	5.2	213.7	13	F5IV-V	0.36	2.64	285.93	0.88	11
+9	Alpha Eridani Achernar  	1	38	-57.2	290.7	-58.8	B3V	0.45	-2.77	22.68	0.57	144
+10	Alpha Orionis Betelgeuse  	5	55	7.4	199.8	-9	M2Ib	0.55	-5.04v	7.63	1.64	430
+11	Beta Centauri Hadar  	14	4	-60.4	311.8	1.2	B1III	0.61	-5.42	6.21	0.56	530
+12	Alpha Aquilae Altair  	19	51	8.9	47.8	-9	A7V	0.77	2.21	194.44	0.94	17
+13	Alpha Crucis Acrux  	12	27	-63.1	300.2	-0.4	B0.5IV+B1V	0.79	-4.17	10.17	0.67	320
+14	Alpha Tauri Aldebaran  	4	36	16.5	181	-20.2	K5III	0.86	-0.64v	50.09	0.95	65
+15	Alpha Scorpii Antares  	16	29	-26.4	351.9	15.1	M1Ib+B4V	0.95	-5.39v	5.4	1.68	600
+16	Alpha Virginis Spica  	13	25	-11.2	316.1	50.8	B1V+B2V	0.97	-3.56	12.44	0.86	260
+17	Beta Geminorum Pollux  	7	45	28	192.2	23.3	K0III	1.14	1.07	96.74	0.87	34
+18	Alpha Piscis Austrini Fomalhaut 	22	58	-29.6	20.6	-65	A3V	1.15	1.72	130.08	0.92	25
+19	Alpha Cygni Deneb  	20	41	45.3	84.3	2.1	A2Ia	1.24	-8.74	1.01	0.57	3000
+20	Beta Crucis Mimosa  	12	48	-59.7	302.5	3.2	B0.5III	1.26	-3.91	9.25	0.61	350
+21	Alpha Leonis Regulus  	10	8	12	226.3	48.9	B7V	1.36	-0.52	42.09	0.79	78
+22	Epsilon Canis Majoris Adhara 	6	59	-29	239.9	-11.3	B2II	1.5	-4.1	7.57	0.57	430
+23	Alpha Geminorum Castor  	7	35	31.9	187.5	22.6	A1V+A2V	1.58	0.59	63.27	1.23	52
+24	Lambda Scorpii Shaula  	17	34	-37.1	351.8	-2.3	B2IV	1.62	-5.05	4.64	0.9	700
+25	Gamma Crucis Gacrux  	12	31	-57.1	300.2	5.7	M3.5III	1.63	-0.52	37.09	0.67	88
+26	Gamma Orionis Bellatrix  	5	25	6.3	197	-16	B2III	1.64	-2.72	13.42	0.98	240
+27	Beta Tauri Elnath  	5	26	28.6	178	-3.8	B7III	1.66	-1.36	24.89	0.88	130
+28	Beta Carinae Miaplacidus  	9	13	-69.7	286	-14.4	A2III	1.67	-0.99	29.34	0.47	111
+29	Epsilon Orionis Alnilam  	5	36	-1.2	205.2	-17.3	B0Ia	1.69	-6.38	2.43	0.91	1300
+30	Alpha Gruis Alnair  	22	8	-47	350	-52.4	B7IV	1.74	-0.72	32.16	0.82	101
+31	Zeta Orionis Alnitak  	5	41	-1.9	206.5	-16.5	O9.5Ib+B0III	1.75	-5.25	3.99	0.79	820
+32	Epsilon Ursae Majoris Alioth 	12	54	56	122.2	61.1	A0IV	1.77	-0.2	40.3	0.62	81
+33	Alpha Persei Mirfak  	3	24	49.9	146.5	-5.9	F5Ib	1.8	-4.49	5.51	0.66	590
+34	Alpha Ursae Majoris Dubhe 	11	4	61.8	142.8	51	K0III+F0V	1.8	-1.09	26.38	0.53	124
+35	Gamma Velorum Regor  	8	10	-47.3	262.8	-7.6	WC8+O9Ib	1.81	-5.25	3.88	0.53	840
+36	Delta Canis Majoris Wezen 	7	8	-26.4	238.4	-8.3	F8Ia	1.83	-6.87	1.82	0.56	1800
+37	Epsilon Sagittarii Kaus Australis 	18	24	-34.4	359.2	-9.8	B9.5III	1.84	-1.39	22.55	1.02	145
+38	Eta Ursae Majoris Alkaid 	13	48	49.3	100.5	65.3	B3V	1.86	-0.59	32.39	0.74	101
+39	Theta Scorpii Sargas  	17	37	-43	347.1	-5.9	F1II	1.86	-2.75	11.99	0.84	270
+40	Epsilon Carinae Avior  	8	23	-59.5	274.3	-12.5	K3II+B2V	1.87	-4.57	5.16	0.49	630
+41	Beta Aurigae Menkalinan  	6	0	44.9	167.5	10.5	A2IV	1.9	-0.1	39.72	0.78	82
+42	Alpha Trianguli Australis Atria 	16	49	-69	321.6	-15.3	K2Ib-II	1.92	-3.61	7.85	0.63	420
+43	Gamma Geminorum Alhena  	6	38	16.4	196.8	4.5	A0IV	1.93	-0.6	31.12	2.33	105
+44	Alpha Pavonis Peacock  	20	26	-56.7	340.9	-35.3	B0.5V+B2V	1.93	-1.82	17.8	0.7	180
+45	Delta Velorum Koo She 	8	45	-54.7	272.1	-7.3	A0V	1.95	0.01	40.9	0.38	80
+46	Beta Canis Majoris Mirzam 	6	23	-18	226.1	-14.2	B1III	1.98	-3.95	6.53	0.66	500
+47	Alpha Hydrae Alphard  	9	28	-8.7	241.6	29.1	K3II	1.98	-1.7	18.4	0.78	180
+48	Alpha Ursae Minoris Polaris 	2	32	89.3	123.3	26.5	F7Ib-II	1.99	-3.62v	7.56	0.48	430
+49	Gamma Leonis Algieba  	10	20	19.8	216.6	54.7	K0III+G7III	2	-0.93	25.96	0.83	126
+50	Alpha Arietis Hamal  	2	7	23.5	144.5	-36.2	K2III	2.01	0.48	49.48	0.99	66
+51	Beta Ceti Diphda  	0	44	-18	112	-80.7	K0III	2.04	-0.3	34.04	0.82	96
+52	Sigma Sagittarii Nunki  	18	55	-26.3	9.5	-12.4	B3V	2.05	-2.14	14.54	0.88	220
+53	Theta Centauri Menkent  	14	7	-36.4	319.5	24	K0III	2.06	0.7	53.52	0.79	61
+54	Alpha Andromedae Alpheratz  	0	8	29.1	111.6	-32.8	B9IV	2.07	-0.3	33.6	0.73	97
+55	Beta Andromedae Mirach  	1	10	35.6	127.2	-27.1	M0II	2.07	-1.86	16.36	0.76	200
+56	Kappa Orionis Saiph  	5	48	-9.7	214.6	-18.4	B0.5III	2.07	-4.65	4.52	0.77	720
+57	Beta Ursae Minoris Kochab 	14	51	74.2	112.7	40.5	K4III	2.07	-0.87	25.79	0.52	127
+58	Beta Gruis Al Dhanab 	22	43	-46.9	346.2	-58	M5III	2.07	-1.52v	19.17	0.75	170
+59	Alpha Ophiuchi Rasalhague  	17	35	12.6	35.9	22.6	A5III-IV	2.08	1.3	69.84	0.88	47
+60	Beta Persei Algol  	3	8	41	148.9	-14.9	B8V+G5IV+A	2.09	-0.18	35.14	0.9	93
+61	Gamma Andromedae Almach  	2	4	42.3	137	-18.6	K3II+B8V+A0V	2.1	-3.08	9.19	0.73	360
+62	Beta Leonis Denebola  	11	49	14.6	250.6	70.8	A3V	2.14	1.92	90.16	0.89	36
+63	Gamma Cassiopeiae Cih  	0	57	60.7	123.6	-2.2	B0IV	2.15	-4.22v	5.32	0.56	610
+64	Gamma Centauri Muhlifain  	12	42	-49	301.3	13.8	A0III+A0III	2.2	-0.81	25.01	1.01	130
+65	Zeta Puppis Naos  	8	4	-40	256	-4.6	O5Ia	2.21	-5.95	2.33	0.51	1400
+66	Iota Carinae Aspidiske  	9	17	-59.3	278.5	-7	A8Ib	2.21	-4.42v	4.71	0.46	690
+67	Alpha Coronae Borealis Alphecca 	15	35	26.7	41.9	53.7	A0V+G5V	2.22	0.42	43.65	0.79	75
+68	Lambda Velorum Suhail  	9	8	-43.4	265.9	2.9	K4Ib	2.23	-3.99	5.69	0.53	570
+69	Zeta Ursae Majoris Mizar 	13	24	54.9	113.1	61.6	A2V+A2V+A1V	2.23	0.33	41.73	0.61	78
+70	Gamma Cygni Sadr  	20	22	40.3	78.2	1.9	F8Ib	2.23	-6.12	2.14	0.51	1500
+71	Alpha Cassiopeiae Schedar  	0	41	56.5	121.5	-6.3	K0II	2.24	-1.99	14.27	0.57	230
+72	Gamma Draconis Eltanin  	17	57	51.5	79.1	29.1	K5III	2.24	-1.04	22.1	0.46	148
+73	Delta Orionis Mintaka  	5	32	-0.3	203.9	-17.7	O9.5II+B2V	2.25	-4.99	3.56	0.83	920
+74	Beta Cassiopeiae Caph  	0	9	59.2	117.5	-3.2	F2III	2.28	1.17	59.89	0.56	55
+75	Epsilon Centauri   	13	40	-53.5	310.2	8.7	B1III	2.29	-3.02	8.68	0.77	380
+76	Delta Scorpii Dschubba  	16	0	-22.6	350.1	22.6	B0.5IV	2.29	-3.16	8.12	0.88	400
+77	Epsilon Scorpii Wei  	16	50	-34.3	348.8	6.6	K2.5III	2.29	0.78	49.85	0.81	65
+78	Alpha Lupi Men  	14	42	-47.4	321.6	11.4	B1.5III	2.3	-3.83	5.95	0.76	550
+79	Eta Centauri   	14	36	-42.2	322.9	16.6	B1.5V	2.33	-2.55v	10.57	0.83	310
+80	Beta Ursae Majoris Merak 	11	2	56.4	149.1	54.8	A1V	2.34	0.41	41.07	0.6	79
+81	Epsilon Boötis Izar  	14	45	27.1	39.4	64.8	K0II-III+A2V	2.35	-1.69	15.55	0.78	210
+82	Epsilon Pegasi Enif  	21	44	9.9	65.6	-31.4	K2Ib	2.38	-4.19	4.85	0.84	670
+83	Kappa Scorpii Girtab  	17	42	-39	351	-4.6	B1.5III	2.39	-3.38	7.03	0.73	460
+84	Alpha Phoenicis Ankaa  	0	26	-42.3	320.2	-74	K0III	2.4	0.52	42.14	0.78	77
+85	Gamma Ursae Majoris Phecda 	11	54	53.7	140.8	61.4	A0V	2.41	0.36	38.99	0.68	84
+86	Eta Ophiuchi Sabik  	17	10	-15.7	6.7	14.1	A1V+A3V	2.43	0.37	38.77	0.86	84
+87	Beta Pegasi Scheat  	23	4	28.1	95.8	-29.1	M2III	2.44	-1.49v	16.37	0.72	200
+88	Eta Canis Majoris Aludra 	7	24	-29.3	242.6	-6.5	B5Ia	2.45	-7.51	1.02	0.57	3000
+89	Alpha Cephei Alderamin  	21	19	62.6	101	9.1	A7IV	2.45	1.58	66.84	0.49	49
+90	Kappa Velorum Markeb  	9	22	-55	275.9	-3.5	B2IV	2.47	-3.62	6.05	0.48	540
+91	Epsilon Cygni Gienah  	20	46	34	76	-5.7	K0III	2.48	0.76	45.26	0.53	72
+92	Alpha Pegasi Markab  	23	5	15.2	88.4	-40.4	B9IV	2.49	-0.67	23.36	0.76	140
+93	Alpha Ceti Menkar  	3	2	4.1	173.3	-45.6	M2III	2.54	-1.61	14.82	0.83	220
+94	Zeta Ophiuchi Han  	16	37	-10.6	6.2	23.6	O9.5V	2.54	-3.2	7.12	0.71	460
+95	Zeta Centauri Al Nair al Kent.	13	56	-47.3	314.2	14.2	B2.5IV	2.55	-2.81	8.48	0.74	390
+96	Delta Leonis Zosma  	11	14	20.5	224.3	66.8	A4V	2.56	1.32	56.52	0.83	58
+97	Beta Scorpii Graffias  	16	5	-19.8	353.1	23.7	B1V+B2V	2.56	-3.5	6.15	1.12	530
+98	Alpha Leporis Arneb  	5	33	-17.8	221	-25.1	F0Ib	2.58	-5.4	2.54	0.72	1300
+99	Delta Centauri   	12	8	-50.7	295.9	11.6	B2IV	2.58	-2.84v	8.25	0.79	400
+100	Gamma Corvi Gienah Ghurab 	12	16	-17.5	291.1	44.6	B8III	2.58	-0.94	19.78	0.81	165
+101	Zeta Sagittarii Ascella  	19	3	-29.9	6.9	-15.5	A2IV+A4V	2.6	0.42	36.61	1.37	89
+102	Beta Librae Zubeneschamali  	15	17	-9.4	352	39.2	B8V	2.61	-0.84	20.38	0.87	160
+103	Alpha Serpentis Unukalhai  	15	44	6.4	14.1	44.1	K2III	2.63	0.87	44.54	0.71	73
+104	Beta Arietis Sheratan  	1	55	20.8	142.4	-39.7	A5V	2.64	1.33	54.74	0.75	60
+105	Alpha Librae Zubenelgenubi  	14	51	-16	340.4	38	A3IV+F4IV	2.64	0.77	42.25	1.05	77
+106	Alpha Columbae Phact  	5	40	-34.1	238.9	-28.8	B7IV	2.65	-1.93	12.16	0.6	270
+107	Theta Aurigae   	6	0	37.2	174.4	6.8	A0III+G2V	2.65	-0.98	18.83	0.81	170
+108	Beta Corvi Kraz  	12	34	-23.4	297.8	39.3	G5III	2.65	-0.51	23.34	0.8	140
+109	Delta Cassiopeiae Ruchbah  	1	26	60.2	127.2	-2.4	A5III	2.66	0.24	32.81	0.62	99
+110	Eta Boötis Muphrid  	13	55	18.4	5.5	73	G0IV	2.68	2.41	88.17	0.75	37
+111	Beta Lupi Ke Kouan 	14	59	-43.1	326.4	13.9	B2III	2.68	-3.35	6.23	0.71	520
+112	Iota Aurigae Hassaleh  	4	57	33.2	170.6	-6.1	K3II	2.69	-3.29	6.37	0.96	510
+113	Mu Velorum   	10	47	-49.4	283.1	8.6	G5III+G2V	2.69	-0.06	28.18	0.49	116
+114	Alpha Muscae   	12	37	-69.1	301.6	-6.3	B2V	2.69	-2.17	10.67	0.48	310
+115	Upsilon Scorpii Lesath  	17	31	-37.3	351.3	-1.9	B2IV	2.7	-3.31	6.29	0.81	520
+116	Pi Puppis   	7	17	-37.1	249	-11.3	K4Ib	2.71	-4.92	2.98	0.55	1100
+117	Delta Sagittarii Kaus Meridionalis 	18	21	-29.8	3	-7.2	K2II	2.72	-2.14	10.67	0.93	310
+118	Gamma Aquilae Tarazed  	19	46	10.6	48.7	-7	K3II	2.72	-3.03	7.08	0.75	460
+119	Delta Ophiuchi Yed Prior 	16	14	-3.7	8.8	32.3	M1III	2.73	-0.86	19.16	1.02	170
+120	Eta Draconis Aldhibain  	16	24	61.5	92.6	40.9	G8III	2.73	0.58	37.18	0.45	88
+121	Theta Carinae   	10	43	-64.4	289.6	-4.9	B0V	2.74	-2.91	7.43	0.5	440
+122	Gamma Virginis Porrima  	12	42	-1.5	298.1	61.3	F0V+F0V	2.74	2.38	84.53	1.18	39
+123	Iota Orionis Hatysa  	5	35	-5.9	209.5	-19.7	O9III	2.75	-5.3	2.46	0.77	1300
+124	Iota Centauri   	13	21	-36.7	309.5	25.8	A2V	2.75	1.48	55.64	0.74	59
+125	Beta Ophiuchi Cebalrai  	17	43	4.6	29.2	17.3	K2III	2.76	0.76	39.78	0.75	82
+126	Beta Eridani Kursa  	5	8	-5.1	205.4	-25.3	A3III	2.78	0.6	36.71	0.76	89
+127	Beta Herculis Kornephoros  	16	30	21.5	39	40.3	G7III	2.78	-0.5	22.07	1	150
+128	Delta Crucis   	12	15	-58.7	298.2	3.8	B2IV	2.79	-2.45	8.96	0.6	360
+129	Beta Draconis Rastaban  	17	30	52.3	79.6	33.4	G2II	2.79	-2.43	9.02	0.49	360
+130	Alpha Canum Venaticorum Cor Caroli	12	56	38.3	118.3	78.8	A0IV+F0V	2.8	0.16v	29.6	1.04	110
+131	Gamma Lupi   	15	35	-41.2	333.2	11.9	B2IV-V+B2IV-V	2.8	-3.4	5.75	1.24	570
+132	Beta Leporis Nihal  	5	28	-20.8	223.6	-27.3	G5III	2.81	-0.63	20.49	0.85	160
+133	Zeta Herculis Rutilicus  	16	41	31.6	52.6	40.3	F9IV+G7V	2.81	2.64	92.63	0.6	35
+134	Beta Hydri   	0	26	-77.3	304.7	-39.7	G2IV	2.82	3.45	133.78	0.51	24
+135	Tau Scorpii   	16	36	-28.2	351.6	12.8	B0V	2.82	-2.78	7.59	0.78	430
+136	Lambda Sagittarii Kaus Borealis 	18	28	-25.4	7.7	-6.5	K1III	2.82	0.95	42.2	0.9	77
+137	Gamma Pegasi Algenib  	0	13	15.2	109.4	-46.7	B2IV	2.83	-2.22	9.79	0.81	330
+138	Rho Puppis Turais  	8	8	-24.3	243.2	4.5	F6III	2.83	1.41	51.99	0.66	63
+139	Beta Trianguli Australis  	15	55	-63.4	321.9	-7.5	F2IV	2.83	2.38	81.24	0.62	40
+140	Zeta Persei   	3	54	31.9	162.3	-16.7	B1II+B8IV+A2V	2.84	-4.55	3.32	0.75	980
+141	Beta Arae   	17	25	-55.5	335.4	-11	K3Ib-II	2.84	-3.49	5.41	0.76	600
+142	Alpha Arae Choo  	17	32	-49.9	340.8	-8.9	B2V	2.84	-1.51	13.46	0.95	240
+143	Eta Tauri Alcyone  	3	47	24.1	166.6	-23.5	B7III	2.85	-2.41	8.87	0.99	370
+144	Epsilon Virginis Vindemiatrix  	13	2	11	312.3	73.7	G8III	2.85	0.37	31.9	0.87	102
+145	Delta Capricorni Deneb Algedi 	21	47	-16.1	37.6	-46	A5V	2.85	2.49	84.58	0.88	39
+146	Alpha Hydri Head of Hydrus	1	59	-61.6	289.4	-53.7	F0III	2.86	1.16	45.74	0.55	71
+147	Delta Cygni   	19	45	45.1	78.7	10.2	B9.5III+F1V	2.86	-0.74	19.07	0.45	170
+148	Mu Geminorum Tejat  	6	23	22.5	189.8	4.2	M3III	2.87	-1.39v	14.07	0.93	230
+149	Gamma Trianguli Australis  	15	19	-68.7	316.5	-8.4	A1III	2.87	-0.87	17.85	0.52	180
+150	Alpha Tucanae   	22	19	-60.3	330.1	-48	K3III	2.87	-1.05	16.42	0.59	200
+151	Theta Eridani Acamar  	2	58	-40.3	247.9	-60.7	A4III+A1V	2.88	-0.59	20.22	0.54	160
+152	Pi Sagittarii Albaldah  	19	10	-21	15.9	-13.3	F2II	2.88	-2.77	7.41	0.69	440
+153	Beta Canis Minoris Gomeisa 	7	27	8.3	209.5	11.7	B8V	2.89	-0.7	19.16	0.85	170
+154	Pi Scorpii   	15	59	-26.1	347.2	20.2	B1V+B2V	2.89	-2.85	7.1	0.84	460
+155	Epsilon Persei   	3	58	40	157.4	-10.1	B0.5V+A2V	2.9	-3.19	6.06	0.82	540
+156	Sigma Scorpii Alniyat  	16	21	-25.6	351.3	17	B1III	2.9	-3.86v	4.44	0.81	730
+157	Beta Cygni Albireo  	19	31	28	62.1	4.6	K3II+B8V+B9V	2.9	-2.31	8.46	0.58	390
+158	Beta Aquarii Sadalsuud  	21	32	-5.6	48	-37.9	G0Ib	2.9	-3.47	5.33	0.94	610
+159	Gamma Persei   	3	5	53.5	142.1	-4.3	G8III+A2V	2.91	-1.57	12.72	0.71	260
+160	Upsilon Carinae   	9	47	-65.1	285	-8.8	A7Ib+B7III	2.92	-5.56	2.01	0.4	1600
+161	Eta Pegasi Matar  	22	43	30.2	92.5	-25	G2II-III+F0V	2.93	-1.16	15.18	0.79	215
+162	Tau Puppis   	6	50	-50.6	260.2	-20.9	K1III	2.94	-0.8	17.85	0.49	185
+163	Delta Corvi Algorel  	12	30	-16.5	295.5	46	B9.5V	2.94	0.79	37.11	0.69	88
+164	Alpha Aquarii Sadalmelik  	22	6	-0.3	59.9	-42.1	G2Ib	2.95	-3.88	4.3	0.83	760
+165	Gamma Eridani Zaurak  	3	58	-13.5	205.2	-44.5	M1III	2.97	-1.19	14.75	0.75	220
+166	Zeta Tauri Alheka  	5	38	21.1	185.7	-5.6	B4III	2.97	-2.56	7.82	1.02	420
+167	Epsilon Leonis Ras Elased Austr.	9	46	23.8	206.8	48.2	G1II	2.97	-1.46	13.01	0.88	250
+168	Gamma² Sagittarii Alnasl  	18	6	-30.4	0.9	-4.5	K0III	2.98	0.63	33.94	0.87	96
+169	Gamma Hydrae   	13	19	-23.2	311.1	39.3	G8III	2.99	-0.05	24.69	0.7	132
+170	Iota¹ Scorpii   	17	48	-40.1	350.6	-6.1	F2Ia	2.99	-5.71	1.82	0.73	1800
+171	Zeta Aquilae Deneb el Okab	19	5	13.9	46.9	3.3	A0V	2.99	0.96	39.18	0.72	83
+172	Beta Trianguli   	2	10	35	140.6	-25.2	A5III	3	0.09	26.24	0.77	124
+173	Psi Ursae Majoris  	11	10	44.5	165.8	63.2	K1III	3	-0.27	22.21	0.68	147
+174	Gamma Ursae Minoris Pherkad Major	15	21	71.8	108.5	40.8	A3II	3	-2.84	6.79	0.46	480
+175	Mu¹ Scorpii   	16	52	-38	346.1	3.9	B1.5V+B6.5V	3	-4.01	3.97	1.2	820
+176	Gamma Gruis   	21	54	-37.4	6.1	-51.5	B8III	3	-0.97	16.07	0.77	205
+177	Delta Persei   	3	43	47.8	150.3	-5.8	B5III	3.01	-3.04	6.18	0.85	530
+178	Zeta Canis Majoris Phurad 	6	20	-30.1	237.5	-19.4	B2.5V	3.02	-2.05	9.7	0.58	340
+179	Omicron² Canis Majoris  	7	3	-23.8	235.6	-8.2	B3Ia	3.02	-6.46	1.27	0.56	2600
+180	Epsilon Corvi Minkar  	12	10	-22.6	290.6	39.3	K2II	3.02	-1.82	10.75	0.71	300
+181	Epsilon Aurigae Almaaz  	5	2	43.8	162.8	1.2	F0Ia	3.03	-5.95	1.6	1.16	2000
+182	Beta Muscae   	12	46	-68.1	302.5	-5.2	B2V+B3V	3.04	-1.86	10.48	0.65	310
+183	Gamma Boötis Seginus  	14	32	38.3	67.3	66.2	A7III	3.04	0.96	38.29	0.73	85
+184	Beta Capricorni Dabih  	20	21	-14.8	29.2	-26.4	G5II+A0V	3.05	-2.07	9.48	0.95	340
+185	Epsilon Geminorum Mebsuta  	6	44	25.1	189.5	9.6	G8Ib	3.06	-4.15	3.61	0.91	900
+186	Mu Ursae Majoris Tania Australis	10	22	41.5	177.9	56.4	M0III	3.06	-1.35	13.11	0.75	250
+187	Delta Draconis Tais  	19	13	67.7	98.7	23	G9III	3.07	0.63	32.54	0.46	100
+188	Eta Sagittarii   	18	18	-36.8	356.4	-9.7	M3.5III	3.1	-0.2	21.87	0.92	149
+189	Zeta Hydrae   	8	55	5.9	222.3	30.2	G9III	3.11	-0.21	21.64	0.99	150
+190	Nu Hydrae   	10	50	-16.2	265.1	37.6	K2III	3.11	-0.03	23.54	0.81	139
+191	Lambda Centauri   	11	36	-63	294.5	-1.4	B9III	3.11	-2.39	7.96	0.52	410
+192	Alpha Indi Persian  	20	38	-47.3	352.6	-37.2	K0III	3.11	0.65	32.21	0.75	101
+193	Beta Columbae Wazn  	5	51	-35.8	241.3	-27.1	K2III	3.12	1.02	37.94	0.57	86
+194	Iota Ursae Majoris Talita 	8	59	48	171.5	40.8	A7IV	3.12	2.29	68.32	0.79	48
+195	Zeta Arae   	16	59	-56	332.8	-8.2	K3II	3.12	-3.11	5.68	0.91	570
+196	Delta Herculis Sarin  	17	15	24.8	46.8	31.4	A3IV	3.12	1.21	41.55	0.65	78
+197	Kappa Centauri Ke Kwan 	14	59	-42.1	326.9	14.8	B2IV	3.13	-2.96	6.05	0.73	540
+198	Alpha Lyncis   	9	21	34.4	190.2	44.7	K7III	3.14	-1.02	14.69	0.81	220
+199	N Velorum   	9	31	-57	278.2	-4.1	K5III	3.16	-1.15	13.72	0.51	240
+200	Pi Herculis   	17	15	36.8	60.7	34.3	K3II	3.16	-2.1	8.89	0.52	370
+201	Nu Puppis   	6	38	-43.2	251.9	-20.5	B8III	3.17	-2.39	7.71	0.52	420
+202	Theta Ursae Majoris Al Haud	9	33	51.7	165.5	45.7	F6IV	3.17	2.52	74.15	0.74	44
+203	Zeta Draconis Aldhibah  	17	9	65.7	96	35	B6III	3.17	-1.92	9.6	0.47	340
+204	Phi Sagittarii   	18	46	-27	8	-10.8	B8III	3.17	-1.08	14.14	0.88	230
+205	Eta Aurigae Hoedus II 	5	7	41.2	165.4	0.3	B3V	3.18	-0.96	14.87	0.74	220
+206	Alpha Circini   	14	43	-65	314.3	-4.6	F0V+K5V	3.18	2.11	60.97	0.58	53
+207	Pi³ Orionis Tabit  	4	50	7	191.5	-23.1	F6V	3.19	3.67	124.6	0.95	26
+208	Epsilon Leporis   	5	5	-22.4	223.3	-32.7	K5III	3.19	-1.02	14.39	0.68	225
+209	Kappa Ophiuchi   	16	58	9.4	28.4	29.5	K2III	3.19	1.09	37.99	0.75	86
+210	G Scorpii   	17	50	-37	353.5	-4.9	K2III	3.19	0.24	25.71	0.87	127
+211	Zeta Cygni   	21	13	30.2	76.8	-12.5	G8III	3.21	-0.12	21.62	0.63	151
+212	Gamma Cephei Errai  	23	39	77.6	119	15.3	K1IV	3.21	2.51	72.5	0.52	45
+213	Delta Lupi   	15	21	-40.6	331.3	13.8	B1.5IV	3.22	-2.75	6.39	0.86	510
+214	Epsilon Ophiuchi Yed Posterior 	16	18	-4.7	8.6	30.8	G9III	3.23	0.64	30.34	0.79	108
+215	Eta Serpentis Alava  	18	21	-2.9	26.9	5.4	K0III-IV	3.23	1.84	52.81	0.75	62
+216	Beta Cephei Alphirk  	21	29	70.6	107.5	14	B2III	3.23	-3.08v	5.48	0.47	600
+217	Alpha Pictoris   	6	48	-61.9	271.9	-24.1	A7III	3.24	0.83	32.96	2.14	99
+218	Theta Aquilae   	20	11	-0.8	41.6	-18.1	B9.5III	3.24	-1.48	11.36	0.92	285
+219	Sigma Puppis   	7	29	-43.3	255.7	-11.9	K5III+G5V	3.25	-0.51	17.74	0.47	185
+220	Pi Hydrae   	14	6	-26.7	323	33.3	K2III	3.25	0.79	32.17	0.77	101
+221	Sigma Librae Brachium  	15	4	-25.3	337.2	28.6	M3III	3.25	-1.51	11.17	0.98	290
+222	Gamma Lyrae Sulaphat  	18	59	32.7	63.3	12.8	B9II	3.25	-3.2	5.14	0.51	630
+223	Gamma Hydri   	3	47	-74.2	289.1	-37.8	M2III	3.26	-0.83	15.23	0.53	215
+224	Delta Andromedae   	0	39	30.9	119.9	-31.9	K3III	3.27	0.81	32.19	0.68	101
+225	Theta Ophiuchi   	17	22	-25	0.5	6.6	B2IV	3.27	-2.92	5.79	0.69	560
+226	Delta Aquarii Skat  	22	55	-15.8	49.6	-60.7	A3III	3.27	-0.18	20.44	2.26	160
+227	Mu Leporis   	5	13	-16.2	217.3	-28.9	B9IV	3.29	-0.47v	17.69	0.71	185
+228	Omega Carinae   	10	14	-70	290.2	-11.2	B8III	3.29	-1.99	8.81	0.48	370
+229	Iota Draconis Edasich  	15	25	59	94	48.6	K2III	3.29	0.81	31.92	0.51	102
+230	Alpha Doradus   	4	34	-55	263.8	-41.4	A0IV+B9IV	3.3	-0.36	18.56	0.46	175
+231	p Carinae   	10	32	-61.7	287.2	-3.2	B4V	3.3	-2.62	6.56	0.49	500
+232	Mu Centauri   	13	50	-42.5	314.2	19.1	B2IV-V	3.3	-2.74v	6.19	0.71	530
+233	Eta Geminorum Propus  	6	15	22.5	188.9	2.5	M3III	3.31	-1.84v	9.34	1.99	350
+234	Alpha Herculis Rasalgethi  	17	15	14.4	35.5	27.8	M5III+G5III	3.31	-2.04v	8.53	2.8	380
+235	Gamma Arae   	17	25	-56.4	334.6	-11.5	B1III	3.31	-4.4	2.87	0.75	1100
+236	Beta Phoenicis   	1	6	-46.7	295.5	-70.2	G8III	3.32	-0.55	16.9	9.9	190
+237	Rho Persei Gorgonea Tertia 	3	5	38.8	149.6	-17	M3III	3.32	-1.67v	10.03	0.83	325
+238	Delta Ursae Majoris Megrez 	12	15	57	132.6	59.4	A3V	3.32	1.33	40.05	0.6	81
+239	Eta Scorpii   	17	12	-43.2	344.4	-2.3	F3III-IV	3.32	1.61	45.56	0.79	72
+240	Nu Ophiuchi   	17	59	-9.8	18.2	7	K0III	3.32	-0.03	21.35	0.79	155
+241	Tau Sagittarii   	19	7	-27.7	9.3	-15.4	K1III	3.32	0.48	27.09	1.48	120
+242	Alpha Reticuli   	4	14	-62.5	274.3	-41.7	G8III	3.33	-0.17	19.98	0.45	165
+243	Theta Leonis Chort  	11	14	15.4	235.4	64.6	A2III	3.33	-0.35	18.36	0.77	180
+244	Xi Puppis Asmidiske  	7	49	-24.9	241.5	0.6	G5Ib	3.34	-4.74	2.42	0.74	1300
+245	Epsilon Cassiopeiae Segin  	1	54	63.7	129.9	1.7	B2III	3.35	-2.31	7.38	0.57	440
+246	Eta Orionis Algjebbah  	5	24	-2.4	204.9	-20.4	B1V+B2V	3.35	-3.86	3.62	0.88	900
+247	Xi Geminorum Alzirr  	6	45	12.9	200.7	4.5	F5IV	3.35	2.13	57.02	0.83	57
+248	Omicron Ursae Majoris Muscida 	8	30	60.7	156	35.4	G5III	3.35	-0.40v	17.76	0.65	185
+249	Delta Aquilae   	19	25	3.1	39.6	-6.1	F2IV	3.36	2.43	65.05	0.81	50
+250	Epsilon Lupi   	15	23	-44.7	329.2	10.3	B2IV-V	3.37	-2.58	6.47	0.61	500
+251	Zeta Virginis Heze  	13	35	-0.6	325.3	60.4	A3V	3.38	1.62	44.55	0.9	73
+252	Epsilon Hydrae   	8	47	6.4	220.7	28.5	G5III+A8V+F7V	3.38	0.29	24.13	1.29	135
+253	Lambda Orionis Meissa  	5	35	9.9	195.1	-12	O8III	3.39	-4.16	3.09	0.78	1100
+254	q Carinae   	10	17	-61.3	285.5	-3.8	K3II	3.39	-3.38	4.43	0.49	740
+255	Delta Virginis Auva  	12	56	3.4	305.5	66.3	M3III	3.39	-0.57	16.11	0.88	200
+256	Zeta Cephei   	22	11	58.2	103.1	1.7	K1II	3.39	-3.35	4.49	0.5	730
+257	Theta² Tauri   	4	29	15.9	180.4	-22	A7III	3.4	0.1	21.89	0.83	150
+258	Gamma Phoenicis   	1	28	-43.3	280.5	-72.2	K5III	3.41	-0.87	13.94	0.64	235
+259	Lambda Tauri   	4	1	12.5	178.4	-29.4	B3V+A4IV	3.41	-1.87	8.81	0.99	370
+260	Nu Centauri   	13	50	-41.7	314.4	19.9	B2IV	3.41	-2.41	6.87	0.77	475
+261	Zeta Lupi   	15	12	-52.1	323.8	5	G8III	3.41	0.65	28.06	0.71	116
+262	Eta Cephei   	20	45	61.8	97.9	11.6	K0IV	3.41	2.63	69.73	0.49	47
+263	Zeta Pegasi Homam  	22	41	10.8	78.9	-40.7	B8.5V	3.41	-0.62	15.64	0.75	210
+264	Alpha Trianguli Mothallah  	1	53	29.6	138.6	-31.4	F6IV	3.42	1.95	50.87	0.82	64
+265	Eta Lupi   	16	0	-38.4	338.8	11	B2.5IV+A5V	3.42	-2.48	6.61	0.78	495
+266	Mu Herculis   	17	46	27.7	52.4	25.6	G5IV	3.42	3.8	119.05	0.62	27
+267	Beta Pavonis   	20	45	-66.2	329	-36	A7III	3.42	0.29	23.71	0.63	140
+268	a Carinae   	9	11	-58.9	277.7	-7.4	B2IV	3.43	-2.11	7.79	0.47	420
+269	Zeta Leonis Adhafera  	10	17	23.4	210.2	55	F0II-III	3.43	-1.08	12.56	0.78	260
+270	Lambda Aquilae Althalimain  	19	6	-4.9	30.3	-5.5	B9V	3.43	0.51	26.05	0.81	125
+271	Lambda Ursae Majoris Tania Borealis	10	17	42.9	175.9	55.1	A2IV	3.45	0.38	24.27	0.79	135
+272	Beta Lyrae Sheliak  	18	50	33.4	63.2	14.8	B8II	3.45	-3.71	3.7	0.52	880
+273	Eta Cassiopeiae Achird  	0	49	57.8	122.6	-5.1	G0V+K7V	3.46	4.59	167.99	0.62	19
+274	Eta Ceti Dheneb  	1	9	-10.2	137.2	-72.6	K2III	3.46	0.67	27.73	0.71	118
+275	Chi Carinae   	7	57	-53	266.7	-12.3	B3IV	3.46	-1.91	8.43	0.52	390
+276	Delta Bootis   	15	16	33.3	53.1	58.4	G8III	3.46	0.69	27.94	0.61	117
+277	Gamma Ceti Kaffaljidhma  	2	43	3.2	168.9	-49.4	A3V+F3V+K5V	3.47	1.47	39.78	0.95	82
+278	Eta Leonis   	10	7	16.8	219.5	50.8	A0Ib	3.48	-5.6	1.53	0.77	2100
+279	Eta Herculis   	16	43	38.9	62.3	40.9	G8III	3.48	0.8	29.11	0.52	112
+280	Tau Ceti   	1	44	-15.9	173.1	-73.4	G8V	3.49	5.68	274.17	0.8	12
+281	Sigma Canis Majoris  	7	2	-27.9	239.2	-10.3	K7Ib	3.49	-4.37	2.68	0.59	1200
+282	Nu Ursae Majoris Alula Borealis	11	18	33.1	190.7	69.1	K3II	3.49	-2.07	7.74	0.79	420
+283	Beta Bootis Nekkar  	15	2	40.4	67.6	60	G8III	3.49	-0.64	14.91	0.57	220
+284	Alpha Telescopii   	18	27	-46	348.7	-15.2	B3IV	3.49	-0.93	13.08	0.71	250
+285	Epsilon Gruis   	22	49	-51.3	338.3	-56.5	A3V	3.49	0.49	25.16	0.68	130
+286	Kappa Canis Majoris  	6	50	-32.5	242.4	-14.5	B1.5IV	3.5	-3.42	4.13	0.5	790
+287	Delta Geminorum Wasat  	7	20	22	196	15.9	F2IV+K3V	3.5	2.22	55.45	0.85	59
+288	Iota Cephei   	22	50	66.2	111.1	6.2	K0III	3.5	0.76	28.27	0.52	115
+289	Gamma Sagittae   	19	59	19.5	58	-5.2	K5III	3.51	-1.11	11.9	0.71	270
+290	Mu Pegasi Sadalbari  	22	50	24.6	90.7	-30.6	G8III	3.51	0.74	27.95	0.77	117
+291	Delta Eridani Rana  	3	43	-9.8	198.1	-46	K0IV	3.52	3.74	110.58	0.88	29
+292	Omicron Leonis Subra  	9	41	9.9	224.6	42.1	A9V+F6V	3.52	0.43	24.12	0.97	135
+293	Phi Velorum Tseen Ke 	9	57	-54.6	279.4	0.1	B5Ib	3.52	-5.34	1.69	0.5	1900
+294	Xi² Sagittarii   	18	58	-21.1	14.6	-10.8	K0II	3.52	-1.77	8.76	0.99	370
+295	Theta Pegasi Baham  	22	10	6.2	67.4	-38.7	A2V	3.52	1.16	33.77	0.85	97
+296	Epsilon Tauri Ain  	4	29	19.2	177.6	-19.9	K0III	3.53	0.15	21.04	0.82	155
+297	Beta Cancri Tarf  	8	17	9.2	214.3	23.1	K4III	3.53	-1.24	11.23	0.97	290
+298	Xi Hydrae   	11	33	-31.9	284.1	28.1	G8III	3.54	0.55	25.23	0.83	130
+299	Mu Serpentis   	15	50	-3.4	4.6	37.3	A0V	3.54	0.14	20.94	0.82	155
+300	Xi Serpentis   	17	38	-15.4	10.6	8.7	F0III	3.54	0.99	30.93	1.03	105

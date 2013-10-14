@@ -1,0 +1,2 @@
+java -classpath . RobotControl
+Pause

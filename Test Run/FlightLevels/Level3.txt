@@ -1,0 +1,2 @@
+	There are Enemy installations at Nav Points Beta, Gamma, Delta and Epsilon. Proceed from your current Position at Nav Point Alpha and destroy them.
+	The mountains are heavily fortified with gun and missile batteries. Do not expose yourself to their fire unnecessarily.

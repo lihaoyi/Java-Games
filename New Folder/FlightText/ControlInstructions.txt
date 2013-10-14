@@ -1,0 +1,16 @@
+	WSAD: Camera Movement
+
+	Horizontal Mouse Position: Roll Speed
+	Vertical Mouse Position: Pitch
+	Spacebar: Fire Weapon
+
+	Left Click: Center Mouse
+	Right Click: Switch Weapon
+
+	E: Target Next Enemy
+	R: Target Nearest Enemy
+	T: Target Closest Unit to Crosshairs
+	F: Target Next Friend
+	N: Target Next Navigation Point
+
+	Escape: Exit Mission

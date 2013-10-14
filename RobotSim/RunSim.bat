@@ -1,0 +1,2 @@
+java -classpath . RobotSim
+Pause

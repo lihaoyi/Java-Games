@@ -1,0 +1,7 @@
+VehicleHitExplosion	5	-50
+VehicleDieExplosion	30	-50
+Shot - MachineGun	0	-55
+Shot - Missile	15	-55
+Shot - Cannon	10	-55
+BulletWhiz1	10	-55
+BulletWhiz2	10	-55

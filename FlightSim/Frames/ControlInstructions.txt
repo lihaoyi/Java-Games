@@ -1,0 +1,29 @@
+WSAD: Camera Movement
+
+Horizontal Mouse Position: Roll Speed (Ailerons)
+Vertical Mouse Position: Pitch (Elevators)
+Spacebar: Fire Weapon
+
+Left Click: Switch Weapon
+Right Click: Center Mouse
+Scroll Wheel and 123...90: Throttle
+
+E: Target Next Enemy
+R: Target Nearest Enemy
+T: Target Closest Unit to Crosshairs
+F: Target Next Friend
+N: Target Next Navigation Point
+	
+P: Pause/Unpause
+C: Toggle AutoPilot
+
+
+Wing Commands:
+F1: Follow Me
+F2: Move to My Position
+F3: Hold Current Position
+F4: Attack Target
+F5: Disregard Last Order
+F6: Scatter (Disregard All Orders)
+
+Escape: Exit Mission

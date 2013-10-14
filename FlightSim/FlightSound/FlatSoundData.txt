@@ -1,0 +1,5 @@
+BEEP_FM
+BEEPDOUB
+BEEPPURE
+KLICK
+WeaponHoming - Missile

@@ -1,0 +1,1 @@
+Fly around and shoot down enemy aircraft! Friendly aircraft have blue trails enemy aircraft red. Use the obstacles around for cover and to avoid pursuit.
